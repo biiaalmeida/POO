@@ -1,5 +1,5 @@
 /*Escreva um programa que recebe o nome de uma pessoa e deseja a ela as boas vindas mencionando seu nome*/
-package POO.UnidadeI.IntroJava;
+package POO.UnidadeI.IntroJava.Codigos;
 import java.util.Scanner;
 
 public class BoasVindas {
