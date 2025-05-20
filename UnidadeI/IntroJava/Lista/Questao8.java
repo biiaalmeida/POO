@@ -30,8 +30,7 @@ public class Questao8 {
                 valor = leitor.nextDouble();
 
                 if (valor > 500) {
-                    double desconto = valor * 0.10;
-                    valorFinal = valor - desconto;
+                    valorFinal = valor * 0.90; //10% de desconto
                     System.out.printf("Desconto de 10%% aplicado. Valor final: R$ %.2f%n", valorFinal);
                 } else {
                     System.out.printf("Sem desconto. Valor final: R$ %.2f%n", valor);
