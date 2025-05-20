@@ -1,5 +1,9 @@
+/*4. Escreva um programa que receba uma temperatura em graus centígrados e a apresente
+em graus Fahrenheit. */
+
 package POO.UnidadeI.IntroJava.Lista;
 import java.util.Scanner;
+
 public class Questao4 {
     public static void main(String[] args){
         float celsius, fahrenheit;
