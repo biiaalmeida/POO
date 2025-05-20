@@ -9,7 +9,7 @@ class Data {
 
     boolean dataEhValida(){
         
-        return (dia>0 && dia<=30 && mes>o && mes<=12 && ano>=0);
+        return (dia>0 && dia<=30 && mes> 0 && mes<=12 && ano>=0);
     }
 
     void inicializaData(int d, int m, int a){
