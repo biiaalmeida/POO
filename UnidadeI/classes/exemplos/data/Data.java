@@ -1,4 +1,4 @@
-package POO.UnidadeI.classes.data;
+package POO.UnidadeI.classes.exemplos.data;
 
 //o public é dispensável
 class Data {

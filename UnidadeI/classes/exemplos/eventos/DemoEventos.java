@@ -1,4 +1,4 @@
-package POO.UnidadeI.classes.eventos;
+package POO.UnidadeI.classes.exemplos.eventos;
 
 public class DemoEventos {
     public static void main(String[] args) {

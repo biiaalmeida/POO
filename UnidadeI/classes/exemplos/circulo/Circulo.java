@@ -1,4 +1,4 @@
-package POO.UnidadeI.circulo;
+package POO.UnidadeI.classes.exemplos.circulo;
 
 public class Circulo {
     private double raio;
