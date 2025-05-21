@@ -1,6 +1,6 @@
 /*Crie a classe executável DemoRegistroAcademico onde o objeto michael, do tipo RegistroAcademico, é criado e seus atributos são inicializados com o método inicializaRegistroAcademico. 
 Por fim, calcule e informe o valor da mensalidade de michael.*/
-package POO.UnidadeI.classes.exemplos.faculdade;
+package POO.UnidadeI.Classes.Exemplos.faculdade;
 
 public class DemoRegistroAcademico {
     public static void main(String[] args) {

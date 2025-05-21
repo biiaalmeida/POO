@@ -1,6 +1,6 @@
 /*Escreva a classe RegistroAcademico com os atributos nome, matricula, codigoCurso e  percentualDeCobranca, além dos métodos inicializaRegistroAcademico e calculaMensalidade
 A mensalidade é igual a 100 x codigoCurso x percentualDeCobranca */
-package POO.UnidadeI.classes.exemplos.faculdade;
+package POO.UnidadeI.Classes.Exemplos.faculdade;
 
 public class RegistroAcademico {
     String nome;

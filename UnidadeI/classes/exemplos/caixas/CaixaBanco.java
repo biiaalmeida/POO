@@ -1,4 +1,4 @@
-package POO.UnidadeI.caixas;
+package POO.UnidadeI.Classes.Exemplos.caixas;
 
 public class CaixaBanco {
     public static int clientesAtendidos = 0; // com o static passa a ser um atributo da classe, é único

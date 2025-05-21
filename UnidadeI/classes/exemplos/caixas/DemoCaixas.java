@@ -1,4 +1,4 @@
-package POO.UnidadeI.caixas;
+package POO.UnidadeI.Classes.Exemplos.caixas;
 
 public class DemoCaixas {
     public static void main(String[] args) {

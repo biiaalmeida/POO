@@ -1,4 +1,4 @@
-package POO.UnidadeI.classes.exemplos.triangulo;
+package POO.UnidadeI.Classes.Exemplos.triangulo;
 
 public class Triangulos {
     double l1;
