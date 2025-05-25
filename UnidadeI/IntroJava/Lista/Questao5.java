@@ -3,7 +3,6 @@ Dezena e Unidade) e, utilizando operadores aritméticos, armazene cada dígito e
 variável de tipo inteiro. Por fim, reescreva o número no formato UCD em outra variável
 de tipo inteiro e o imprima. Exemplo: 123 deve ser reescrito como 312. */
 
-package POO.UnidadeI.IntroJava.Lista;
 import java.util.Scanner;
 
 public class Questao5 {

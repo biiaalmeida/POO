@@ -8,9 +8,6 @@ de R$ 100 vão ter 40% de desconto, peças que custam entre R$ 50 e R$ 100 vão 
 Escreva um programa que recebe do usuário o código do setor da loja e o valor original de
 um produto e imprime na tela o nome do setor e o valor do produto com desconto. Caso
 o usuário forneça um código diferente de 111 ou 222, exiba a mensagem Setor Invalido.*/
-
-package POO.UnidadeI.IntroJava.Lista;
-
 import java.util.Scanner;
 
 public class Questao8 {

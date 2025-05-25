@@ -1,6 +1,4 @@
 /*7. Escreva um programa que lê três números e determina qual número é o menor.*/
-package POO.UnidadeI.IntroJava.Lista;
-
 import java.util.Scanner;
 
 public class Questao7 {
