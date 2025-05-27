@@ -16,6 +16,14 @@ public class Lampada {
         contador = new Contador();
     }
 
+    public boolean getEstadoDaLampada(){
+        return estadoDaLampada;
+    }
+
+    public Contador getContador(){
+        return contador;
+    }
+
     public void acende(){
         estadoDaLampada = true;
         contador.incrementar();
@@ -28,11 +36,9 @@ public class Lampada {
     public String mostraEstado(){
         if(estadoDaLampada == true){
             return "Ligada";
-        } else if (estadoDaLampada == false){
+        } else {
             return "Desligada";
-        } else{
-            return null;
-        }
+        } 
     }
 
     public boolean estaLigada(){
@@ -44,8 +50,8 @@ public class Lampada {
     }
 
     public void foiAcessa(){
-        System.out.print("A lâmpada foi acesa ");
+        System.out.print("A lâmpada foi acessa ");
         contador.imprimir(); 
-        System.out.println(" vez(es).");
+        System.out.print(" vez(es).");
     }    
 }
